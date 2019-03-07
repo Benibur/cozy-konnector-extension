@@ -1,6 +1,6 @@
-# Cozy konnector extension
+# Cozy konnector browser extension
 
-Extension to help build Cozy konnectors.
+A browser extension to help build Cozy konnectors.
 
 1. [x] Interactive REPL to quickly see what you are scraping
 2. [x] Mouse selection to get selectors 
